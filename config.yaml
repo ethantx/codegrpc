@@ -1,0 +1,8 @@
+grpc:
+  name:            "demo"
+  address:          ":2100"
+  logPath:          "./log"
+  logStdout:        true
+  errorLogEnabled:  true
+  accessLogEnabled: true
+  errorStack:       true
