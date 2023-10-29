@@ -1,5 +1,5 @@
 grpc:
-  name:            "demo"
+  name:            "test"
   address:          ":2100"
   logPath:          "./log"
   logStdout:        true
